@@ -55,7 +55,7 @@ Here are some of the visual insights generated from the analysis:
 1. Survival Rate by Gender
 Females had a significantly higher survival rate compared to males
 
-![Survival Rate by Gender](Viz/Survival%20Rate%20by%20Gender.png)
+![Survival Rate by Gender](Viz/Survival%20rate%20by%20gender.png)
 
 ----
 2. Correlation Heatmap
@@ -65,7 +65,8 @@ This heatmap shows relationships between numerical features and survival probabi
 
 -------
 
-**Author:** 
+👩🏻‍💻**Author:** 
+
 **Shahd Hussein**
 
 ----
