@@ -49,6 +49,24 @@ The analysis focused on understanding which factors influenced passenger surviva
 - **Passenger class** had a strong effect on survival — first-class passengers were significantly more likely to survive.  
 
 ---
+📈 Visualizations
+
+Here are some of the visual insights generated from the analysis:
+1. Survival Rate by Gender
+Females had a significantly higher survival rate compared to males
+
+![Survival Rate by Gender](Viz/Survival%20Rate%20by%20Gender.png)
+
+----
+2. Correlation Heatmap
+This heatmap shows relationships between numerical features and survival probability.
+
+![Correlation Heatmap](Viz/Correlation%20Heatmap.png)
+
+-------
 
 **Author:** 
 **Shahd Hussein**
+
+----
+🔗 [LinkedIn Profile](www.linkedin.com/in/shahd-hussien)  
